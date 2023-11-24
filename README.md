@@ -64,5 +64,6 @@ This project is free to use and does not contains any license.
 
 If you have any questions or concerns, feel free to reach out:
 
-Vitou
+**Vitou**
+
 **ninvitou@gmail.com**
