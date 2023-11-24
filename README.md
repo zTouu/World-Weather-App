@@ -43,7 +43,7 @@ To install **World-Weather-App**, follow these steps:
 
 --> git clone repository_url
 
-git clone https://github.com/zTouu/world-weather-app
+git clone https://github.com/zTouu/World-Weather-App
 
 
 # Acknowledgements
